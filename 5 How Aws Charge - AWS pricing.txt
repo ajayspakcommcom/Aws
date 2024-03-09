@@ -1,1 +1,19 @@
-sdasdasd
+Amazon Web Services (AWS) employs a pay-as-you-go pricing model, which means customers are charged based on their actual usage of AWS services. The pricing can vary depending on factors such as the type and quantity of services used, data transfer, storage usage, and any additional features or resources utilized. Here's an overview of how AWS charges its customers:
+
+Usage-based pricing: 
+  Most AWS services are billed based on the resources consumed or the time the resources are utilized. For example, customers are charged based on the number of hours they use an Amazon EC2 instance, the amount of data stored in Amazon S3, or the number of requests made to Amazon API Gateway.
+
+Data transfer and data transfer acceleration: 
+  AWS charges for data transferred in and out of its infrastructure, both within the same region and between regions. Additionally, AWS offers services like Amazon CloudFront for content delivery, which may incur additional charges based on data transfer and acceleration.
+
+Storage costs: 
+  AWS offers various storage options such as Amazon S3 (Simple Storage Service), Amazon EBS (Elastic Block Store), and Amazon Glacier. Customers are charged based on the amount of data stored and any additional features used, such as data retrieval or redundancy options.
+
+Compute costs: 
+  AWS provides computing resources through services like Amazon EC2 (Elastic Compute Cloud) and AWS Lambda. Customers are charged based on factors such as the instance type, usage duration, and any additional features or resources utilized (e.g., provisioned IOPS for storage).
+
+Additional features and services: 
+  AWS offers a wide range of additional services and features, such as databases, analytics, machine learning, and security services. Customers are charged based on their usage of these services, typically on a pay-as-you-go basis.
+
+Free tier and pricing calculator: 
+  AWS offers a free tier for new customers to explore and experiment with certain services at no cost for a limited time. Additionally, AWS provides a pricing calculator to help customers estimate their monthly bills based on their expected usage patterns.
