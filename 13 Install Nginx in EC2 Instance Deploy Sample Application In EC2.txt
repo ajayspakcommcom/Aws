@@ -1,5 +1,5 @@
 Login as root user in ubuntu command : 
-    sudo i
+    sudo -i
 
 apt-get update
 
