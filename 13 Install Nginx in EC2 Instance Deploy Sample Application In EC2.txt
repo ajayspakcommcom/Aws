@@ -1,1 +1,5 @@
-Nothing...
+Login as root user in ubuntu command : 
+    sudo i
+
+apt-get update
+
