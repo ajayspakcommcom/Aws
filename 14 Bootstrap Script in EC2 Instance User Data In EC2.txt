@@ -5,5 +5,3 @@ Write a SS in User Data
   apt-get update
   apt-get install nginx -y
   echo "Welcome to the World Wide Network"> /var/www/html/index.html
-
-
