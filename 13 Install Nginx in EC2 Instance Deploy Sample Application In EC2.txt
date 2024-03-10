@@ -5,3 +5,4 @@ apt-get update
 nginx -t
 apt-get install nginx
 service nginx status
+curl localhost
