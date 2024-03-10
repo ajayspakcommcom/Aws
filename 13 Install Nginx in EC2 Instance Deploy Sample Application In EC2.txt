@@ -10,3 +10,4 @@ curl localhost
 cd /var/www/html 
 cat index.nginx-debian.html
 echo "Welcome to World Wide Network"> index.html
+curl localhost
