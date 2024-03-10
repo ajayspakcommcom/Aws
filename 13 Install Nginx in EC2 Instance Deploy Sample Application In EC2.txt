@@ -6,3 +6,6 @@ nginx -t
 apt-get install nginx
 service nginx status
 curl localhost
+
+cd /var/www/html 
+cat index.nginx-debian.html
