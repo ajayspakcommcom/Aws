@@ -1,1 +1,11 @@
-lsblk
+Create a instance 
+After Creating a instance then attached the volume
+Then check the volume with command : lsblk
+Then formate the volume: sudo mkfs.ext4 /dev/xvdd
+Then create a directtory name : test (under the root user)
+Then mount the volume attached volume with test directory : sudo  mount /dev/xvdd /test/
+Then check the mounted directory : mountpoint /test/ or df -h /test/
+
+
+
+
