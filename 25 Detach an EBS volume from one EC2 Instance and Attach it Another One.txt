@@ -1,2 +1,2 @@
 To check the attched volume we have the data or not 
-sudo file -sL /dev/xvde
+sudo file -s /dev/xvde
