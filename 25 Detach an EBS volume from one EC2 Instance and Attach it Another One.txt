@@ -1,5 +1,5 @@
 To check the attched volume we have the data or not 
 sudo file -s /dev/xvde
 Then create one directoty /data/
-Then mount the attached directoty to /data/ directory
+Then mount the attached directoty to /data/ directory : sudo  mount /dev/xvdd /test/
 
