@@ -7,6 +7,9 @@ Then mount the volume attached volume with test directory : sudo  mount /dev/xvd
 Then check the mounted directory : mountpoint /test/ or df -h /test/
 Then create dummy files under the test directory : touch file1.txt file2.txt file3.txt
 
+If you want 
+Then unmount the attached volume : umount /mnt/data
+
 
 
 
