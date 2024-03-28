@@ -1,1 +1,3 @@
-
+First create a instance with two volume one is root and another one is attached volume at the time creation of instance
+Then check the file system sudo file -s /dev/xvdb
+Then make the file system using mkfs.ext4 /dev/xvdb
