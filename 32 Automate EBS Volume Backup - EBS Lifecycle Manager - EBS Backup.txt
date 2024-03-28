@@ -1,1 +1,2 @@
-Watch...
+First create a volume 
+Then provide a tag to volume (Name to volume)
