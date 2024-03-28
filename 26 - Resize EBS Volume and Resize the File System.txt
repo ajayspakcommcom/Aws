@@ -1,0 +1,10 @@
+Create new instance
+Create a new volume 
+attache new volume to created instance 
+create directory to new instance then mount that directory with attached instance 
+then check the volume attached with instance using lsblk command
+then check the file system used: df -h
+then modify the attched instance size 
+then come to terminal run the command to increase the size of the file attached to instance 
+resize2fs /dev/xvdd/
+
