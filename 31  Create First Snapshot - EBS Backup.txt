@@ -4,3 +4,14 @@ Then make the file system using mkfs.ext4 /dev/xvdb
 Then mount the file system mount /dev/xvdb /data
 Then goto to data folder run the command yes "Ram">> abc.txt
 Then run the command under /data foder ls -lh
+Then create a snapshot from volume
+Then goto /data folder create another file with data
+    echo "this is the new file in the ebs" > /data/xyz.txt
+Then create a volume from snapshot
+Then created snapshop volume attached to instance 
+Then run the command sudo file -s /dev/xvdd (to check the file system)
+Then create another direcory with name /dataone 
+Then mount that directory with attached volume
+  sudo mount /dev/xvdd /dataone 
+  sudo mountpoint /dataone
+Then goto directory /dataone to check the we have data
