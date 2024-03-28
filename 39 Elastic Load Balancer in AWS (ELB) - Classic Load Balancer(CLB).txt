@@ -3,3 +3,4 @@ Create four instance with user data
   apt-get update
   apt-get install nginx -y
   echo "this is $(hostname)"> /var/www/html/index.html
+
