@@ -1,1 +1,5 @@
-Nothing...
+Always select volume type Provisional IOPS  SSD (io2)
+Enable Multi-Attach checkbox 
+Then create volume
+Then attached the created volume to instance
+
