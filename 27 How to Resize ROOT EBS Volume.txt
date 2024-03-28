@@ -1,1 +1,6 @@
-sdasd
+First modify the root volume 
+Go to console type lsblk to check the root volume size
+then type df -h to check the partition 
+then sudo file -s /dev/xvda1 
+then growpart /dev/xvda 1
+then resize2fs /dev/xvda1
