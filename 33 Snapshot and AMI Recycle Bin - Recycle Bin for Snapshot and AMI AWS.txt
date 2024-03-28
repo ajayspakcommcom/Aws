@@ -1,1 +1,10 @@
-Watching...
+Go to Snapshots link  
+Click on Recycle Bin 
+Create a Retention Rules 
+Retention rule name - Optional : Provide a name 
+Retention rule description - Optional : Provide a description
+Resource Type : Select EBS Snapshots
+Resource tags to match : Select Name and Value 
+Retention period: any number of value
+  
+  
