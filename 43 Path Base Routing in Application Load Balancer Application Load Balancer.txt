@@ -1,5 +1,11 @@
 #!/bin/bash
 apt-get update
 apt-get install nginx -y
+mkdir -p /var/www/html
+echo "this is $(hostname)"> /var/www/html/index.html
+
+#!/bin/bash
+apt-get update
+apt-get install nginx -y
 mkdir -p /var/www/html/test
 echo "this is $(hostname)"> /var/www/html/test/index.html
