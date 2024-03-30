@@ -1,1 +1,2 @@
-Watching...
+
+cd /var/log/nginx 
